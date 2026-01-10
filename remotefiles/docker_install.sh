@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo yum remove -y docker \
   docker-client \
   docker-client-latest \
